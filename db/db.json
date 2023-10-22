@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Brunda M Bharadwaj",
+      "email": "brunda.bharadwaj22@gmail.com",
+      "password": "test123"
+    },
+    {
+      "name": "Ankitha Tenkila",
+      "email": "ankithabharadwaj@gmail.com",
+      "password": "xyz"
+    }
+  ]
+}
