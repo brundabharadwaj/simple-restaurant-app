@@ -1,4 +1,4 @@
-# resturant-project
+# Resturant Lists
 
 ## Project setup
 ```
