@@ -2,13 +2,39 @@
   "users": [
     {
       "name": "Brunda M Bharadwaj",
-      "email": "brunda.bharadwaj22@gmail.com",
+      "email": "brunda.bharadwaj@z.com",
       "password": "test123"
     },
     {
       "name": "Ankitha Tenkila",
       "email": "ankithabharadwaj@gmail.com",
       "password": "xyz"
+    },
+    {
+      "email": "brundabharadwaj22",
+      "password": "_5xV9mc#6iUb*4E",
+      "name": "test",
+      "id": "38778f10-b3fb-4af8-9aa3-a4bce2ab6d3c"
+    }
+  ],
+  "resturants": [
+    {
+      "id": 1,
+      "name": "Kailash Parbat",
+      "location": "Mysore",
+      "contact": "+91 XXXXX1XX0"
+    },
+    {
+      "id": 2,
+      "name": "Nalpak",
+      "location": "Mysore",
+      "contact": "+91 XXX2X1XX9"
+    },
+    {
+      "name": "SPR",
+      "contact": "sssss",
+      "location": "#aaaaa",
+      "id": 6
     }
   ]
 }
